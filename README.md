@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Asma-Khan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
+<img align="right" width="400" alt="coding" src="https://cdn.dribbble.com/userupload/22228251/file/original-dd4133b41bcb1d2cef1679f2395ac06a.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asmakhan0202&label=Profile%20views&color=0e75b6&style=flat" alt="asmakhan0202" /> </p>
 
 - 🌱 I’m currently learning **MERN Stack developments.**
