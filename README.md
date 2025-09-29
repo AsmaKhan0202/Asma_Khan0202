@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asmakhan0202&label=Profile%20views&color=0e75b6&style=flat" alt="asmakhan0202" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack developments**
+- 🌱 I’m currently learning **MERN Stack developments.**
 
-- 💬 Ask me about **HTML, CSS, Bootsrap5, javaScript.**
+- 💬 Ask me about **HTML 5, CSS 3, Bootsrap5, javaScript.**
 
 - 📫 How to reach me **AsmaKhan020202@gmail.com**
 
