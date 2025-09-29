@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN Stack developments**
 
-- 💬 Ask me about **HTML, CSS, Bootsrap5 javaScript**
+- 💬 Ask me about **HTML, CSS, Bootsrap5, javaScript.**
 
 - 📫 How to reach me **AsmaKhan020202@gmail.com**
 
